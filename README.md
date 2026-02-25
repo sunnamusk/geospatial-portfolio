@@ -55,12 +55,12 @@ Scalable spatial schema design
 
 Professional cartographic layout demonstrating 10-mile buffer analysis and 20-minute network service area modelling.
 
-📄 Download Library Accessibility Analysis Map
+📄 Download Full PDF Map
 
 📁 Repository Structure
 📂 maps
 
-Professional cartographic layouts exported in high-resolution PDF format.
+Professional cartographic layouts exported in high-resolution PDF and PNG format.
 
 📂 scripts
 
