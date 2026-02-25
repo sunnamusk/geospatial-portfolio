@@ -1,74 +1,107 @@
-Geospatial Analysis and GeoAI Portfolio
+🌍 Geospatial Analysis & GeoAI Portfolio
 
-Overview
+🚀 Overview
 
-This repository showcases advanced geospatial analysis projects developed using QGIS, ArcGIS Pro, Python, and PostGIS. The portfolio demonstrates spatial modelling, terrain analysis, suitability modelling, network accessibility modelling, and preparation of structured geospatial datasets for AI and research applications.
+This repository presents advanced geospatial analysis projects developed using QGIS, ArcGIS Pro, Python, and PostGIS.
 
-The work emphasizes reproducible workflows, analytical rigor, and research-grade digital asset development suitable for AI pipelines and spatial decision systems.
+The portfolio demonstrates:
 
-Core Technical Expertise
+Spatial modelling
 
-• Advanced QGIS spatial analysis
-• ArcGIS Pro geoprocessing and ModelBuilder workflows
-• Raster and vector analysis
-• DEM and terrain modelling
-• Network and service area analysis
-• Suitability and weighted overlay modelling
-• Spatial SQL using PostGIS
-• Python automation with PyQGIS and ArcPy
-• GeoAI dataset preparation and feature extraction
+Terrain and hydrological analysis
 
-Sample Map Output
+Suitability and weighted overlay modelling
+
+Network accessibility modelling
+
+GeoAI dataset engineering for machine learning workflows
+
+All projects emphasize reproducible workflows, analytical rigor, and research-grade spatial outputs suitable for AI pipelines and spatial decision systems.
+
+🛠️ Core Technical Expertise
+🗺️ GIS & Spatial Analysis
+
+Advanced QGIS spatial analysis
+
+ArcGIS Pro geoprocessing and ModelBuilder
+
+Raster and vector processing
+
+DEM and terrain modelling
+
+Network and service area analysis
+
+Weighted overlay suitability modelling
+
+🧠 GeoAI & Data Engineering
+
+Spatial feature extraction
+
+ML-ready dataset preparation
+
+Coordinate system normalization
+
+Structured geospatial data pipelines
+
+🗄️ Spatial Databases
+
+PostGIS spatial SQL
+
+Spatial indexing and geometry validation
+
+Scalable spatial schema design
+
+🗺️ Sample Map Output
 
 Professional cartographic layout demonstrating 10-mile buffer analysis and 20-minute network service area modelling.
 
-Download Library Accessibility Analysis Map
+📄 Download Library Accessibility Analysis Map
 
-Repository Structure
-maps/
+📁 Repository Structure
+📂 maps
 
-Professional cartographic outputs including land use change maps, terrain analysis layouts, and suitability modelling results exported in PDF format.
+Professional cartographic layouts exported in high-resolution PDF format.
 
-scripts/
+📂 scripts
 
 Python automation scripts for spatial feature extraction and ML-ready dataset generation.
 Example: geoai_feature_extraction.py
 
-case_studies/
+📂 case_studies
 
-Short research-style case studies explaining methodology, data sources, analytical workflow, and interpretation of results.
+Research-style documentation explaining methodology, workflow design, and interpretation of results.
 Example: library_accessibility_case_study.pdf
 
-data/
+📂 data
 
-Sample geospatial datasets used for demonstration and workflow illustration.
+Sample geospatial datasets for demonstration purposes.
 
-outputs/
+📂 outputs
 
-Generated structured datasets produced by automation scripts.
+Generated structured datasets created by automation scripts.
 
-Highlighted Projects
-Library Accessibility Analysis
+📌 Highlighted Projects
+📍 Library Accessibility Analysis
 
 Buffer modelling and 20-minute network service area analysis to evaluate spatial equity and identify underserved regions.
 
-Land Use Change Detection
+🌾 Land Use Change Detection
 
-Multi-temporal satellite classification and spatial change quantification using raster processing workflows.
+Multi-temporal satellite classification and spatial change quantification using raster workflows.
 
-Terrain and Hydrological Analysis
+⛰️ Terrain & Hydrological Analysis
 
-Slope modelling, watershed delineation, and terrain interpretation for environmental assessment.
+Slope modelling, watershed delineation, and terrain-based environmental assessment.
 
-Infrastructure Suitability Modelling
+🏗️ Infrastructure Suitability Modelling
 
-Weighted overlay analysis and criteria-based spatial decision support.
+Criteria-based spatial decision support using weighted overlay analysis.
 
-GeoAI Feature Engineering
+🤖 GeoAI Feature Engineering
 
-Extraction and structuring of spatial features into tabular datasets for machine learning workflows.
+Extraction and transformation of spatial features into structured tabular datasets for machine learning pipelines.
 
-Running the Python Script
+▶️ Running the Python Script
 
 Requirements
 
@@ -78,12 +111,16 @@ Run
 
 python scripts/geoai_feature_extraction.py
 
-Professional Focus
+🎯 Professional Focus
 
 Building reproducible geospatial workflows
-Designing structured and scalable spatial data systems
+
+Designing scalable spatial data systems
+
 Preparing research-grade digital assets for AI applications
-Ensuring spatial data integrity, metadata consistency, and analytical transparency
+
+Ensuring spatial data integrity and metadata consistency
+
 Contact
 
 LinkedIn: https://www.linkedin.com/in/sammy-limo-97a14a254/
